@@ -13,7 +13,6 @@ module Bark
   sparky = Dog.new 
   sparky.bark("Woof!")
    
-   
 module Sit 
   def sit(sit)
     puts "#{sit}"
@@ -24,4 +23,5 @@ module Sit
   end 
   
   sparky.sit("The Dog is sitting")
+end
     
