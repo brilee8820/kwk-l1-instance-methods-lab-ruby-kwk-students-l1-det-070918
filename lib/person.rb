@@ -1,5 +1,8 @@
 class Person
 end
 
-module talk 
-  
+module Talk 
+  include talk(sound)
+    puts "#{talk}"
+end
+
