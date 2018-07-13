@@ -23,6 +23,5 @@ module Sit
     include sit 
   end 
   
-  sparky = Dog.new
   sparky.sit("The Dog is sitting")
     
