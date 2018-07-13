@@ -6,6 +6,8 @@ end
 class Dog
   def sit 
     puts "The Dog is sitting "
+
+
 # module Bark 
 #   def bark(sound)
 #     puts "#{sound}"
@@ -28,5 +30,5 @@ class Dog
 #   end 
   
 #   sparky.sit("The Dog is sitting")
-# # end
+# end
     
