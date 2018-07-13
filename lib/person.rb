@@ -6,5 +6,5 @@ module Talk
     puts "#{talk}"
 end
   
-  
+  class 
 
