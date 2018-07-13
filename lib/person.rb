@@ -6,5 +6,10 @@ module Talk
     puts "#{talk}"
 end
   
-  class 
+  class Person
+    incluse talk 
+  end
+  
+  katie = Person.new 
+  katie = 
 
